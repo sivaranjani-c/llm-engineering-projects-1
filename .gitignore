@@ -1,0 +1,6 @@
+# Secrets
+.env
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
